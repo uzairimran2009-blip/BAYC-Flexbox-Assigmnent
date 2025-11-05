@@ -53,7 +53,6 @@ span .top{
     color: white;
     margin-bottom: 16px;
     font-weight: 100;
-    text-align: justify;
     padding-right: 150px;
 }
 .second{
@@ -66,7 +65,7 @@ span .top{
 }
 .third img{
     width: 170px;
-    /* padding-top: 19px; */
+    padding-top: 19px;
 }
 div .para{
     color: #bfc500;
@@ -260,4 +259,5 @@ del{
 .ruof{
     height: 350px;
     background-color: #bfc500;
+
 }
